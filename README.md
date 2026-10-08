@@ -1,10 +1,3 @@
-😂 Okay okay. **You're absolutely right.** For GitHub, we don't need to document every API detail.
-
-You need a **simple project README**, not a user manual.
-
-Use this:
-
-````markdown
 # Bulk Certificate Generator
 
 A Flask-based backend application for generating certificates in bulk.
